@@ -1,5 +1,7 @@
 {
-  "name": "firstapp",
+  "name": "React",
+  "title": "React single webpage",
+  "author": "jimoh segun",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
